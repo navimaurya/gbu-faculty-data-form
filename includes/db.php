@@ -6,8 +6,8 @@
 	{
 		private $dbHost     = "localhost";
 	    private $dbUsername = "root";
-	    private $dbPassword = "Navidbpass#0000";
-	    private $dbName     = "teacherdatabase";
+	    private $dbPassword = "";
+	    private $dbName     = "teachersdatabase";
 
 		function content(){
             // Connect to the database
